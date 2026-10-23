@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Quản Trị Lớp Học - Nguyễn Viết Tri",
+  "description": "Hệ thống quản trị lớp học, hồ sơ học sinh và theo dõi tiến độ học tập cho giáo viên Nguyễn Viết Tri tại Trường PTDTBT TH Tu Mơ Rông.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
